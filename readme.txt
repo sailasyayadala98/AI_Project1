@@ -1,5 +1,4 @@
-Name : Sai Lasya Yadala 
-Id: 1002029134  
+Name : Sai Lasya Yadala   
                               
                                  
 Programing Language: Python 
